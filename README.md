@@ -23,8 +23,7 @@ print(sol)
 
 ```
 ## Output:
-![image1](.//image1.png)
-
+![Git log](.//image1.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
